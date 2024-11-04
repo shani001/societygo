@@ -1,0 +1,2 @@
+# societygo
+app for Society
